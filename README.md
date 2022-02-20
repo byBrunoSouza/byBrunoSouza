@@ -15,6 +15,8 @@
   ##
   
   <div>
-     <a href="api.whatsapp.com/send?1=pt_BR&phone=+5531982529354" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"></a>
+     <a href="https://api.whatsapp.com/send?1=pt_BR&phone=+5531982529354" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"></a>
+      <a href="https://t.me/Brunosouzassouza" target="_blank"><img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white></a>
+     
    
   </div>   
